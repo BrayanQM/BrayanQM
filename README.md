@@ -24,7 +24,7 @@
 ✔ [escribire algo cuando cuando sepa que ]<br>
 ✔ [escribire algo cuando cuando sepa que ]<br>
   
-![Cool GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdrZXozMjByemRiMmhueXJ2NnZ0a3hudXVsYXZwMWpsMmU0ZXZ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YZX4FWwOJTK5W/giphy.gif)
+
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -52,6 +52,3 @@
 
 </div>
 
-
-
-![Cool GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTlodTJjdWhyM3RzZXl1c2Eza2d0Y2I3NWVsdHVybDJydWp4YTdidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12A2hq8FMIY63e/giphy.gif)
