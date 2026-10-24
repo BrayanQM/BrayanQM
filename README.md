@@ -1,11 +1,13 @@
 <table border="0" width="100%">
   <tr>
     <!-- COLUMNA IZQUIERDA: Tu GIF animado -->
-  <img width="800" height="400" alt="red_neuronal" src="https://github.com/user-attachments/assets/101f9603-9bae-4bdc-8479-782815089158" />
-
-    <!-- COLUMNA DERECHA: Tu Icono o foto de perfil -->
-<img width="720" height="720" alt="Icon_Pixel" src="https://github.com/user-attachments/assets/acb42198-c90e-4f43-a05f-b57b7e60f88d" />
-
+    <td width="60%" align="center" style="border: none;">
+      <img width="800" height="400" alt="red_neuronal" src="https://github.com/user-attachments/assets/417d685f-c74f-4f2c-9e0a-f69b42376c44" />
+    </td>
+    <!-- COLUMNA DERECHA: Tu Icono o foto de perfil corregido -->
+    <td width="40%" align="center" style="border: none;">
+      <img width="180" height="180" src="https://github.com/user-attachments/assets/1b547d5f-9d26-4c8c-8518-84adf2bb0d76" alt="Icon_Pixel" style="border-radius: 50%;" />
+    </td>
   </tr>
 </table>
 
