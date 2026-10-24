@@ -14,16 +14,11 @@
 --- 
 
 Para empezar Solo soy estudiante de ingenieria Cosa que Es Comun
+|PROYECTOS|LENGUAJE|DESCRPCION|
+|---|---|---|
+| **WORLD SANBOX** | Motor Godot, GDSCRPT| Este me parece mas interesante es un juego.|
+|**CONSOLA CALENDAR** |Rust|En este por ejemplo es interesante Por lo que Usa la COnsola como calendario de LA universidad, con enlace ICA etc.|
 
-# Proyectos en las que he estado trabajando 
-
-1. **WORLD SANBOX**  
-   Este me parece mas interesante es un juego.
-
-2. **CONSOLA CALENDAR**  
-   En este por ejemplo es interesante Por lo que Usa la COnsola como calendario de LA universidad, con enlace ICA etc.
-   <br><br>
-   <img width="100%" alt="image" src="https://github.com" />
 
 ---
 SALUDO ESO ES Todo
