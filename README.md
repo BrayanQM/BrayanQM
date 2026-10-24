@@ -1,4 +1,5 @@
-![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG9vMjU3NmJ0NjI4bTY5bTJldGU1NTVjbjdwcjc1N3htZG1scHE3byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/No3Q2COl8SEnu/giphy.gif)
+<img width="540" height="540" alt="red_neuronal" src="https://github.com/user-attachments/assets/f7ca9069-0adb-4ccc-b4c4-1e346ab958f4" />
+
 --- 
 Para empezar Solo soy estudianet de ingenieria Cosa que Es Comun
 # Proyectos en las que he estado trabajando 
