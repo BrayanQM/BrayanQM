@@ -12,13 +12,21 @@
 </table>
 
 --- 
-
-Para empezar Solo soy estudiante de ingenieria Cosa que Es Comun
+## Proyectos
 |PROYECTOS|LENGUAJE|DESCRPCION|
 |---|---|---|
 | **WORLD SANBOX** | Motor Godot, GDSCRPT| Este me parece mas interesante es un juego.|
 |**CONSOLA CALENDAR** |Rust|En este por ejemplo es interesante Por lo que Usa la COnsola como calendario de LA universidad, con enlace ICA etc.|
-
-
 ---
-SALUDO ESO ES Todo
+## Herramientas que mas he estado usando
+|Herramientas|Descriocion|USO EN 2024-2026|
+|---|---|---|
+|ArchOS Linux|Mi principal Sistema son basadas en acrh desde el 2024, CachyOs + Omarchy|2026|
+|docker|He usado Docker para mas uso en Levnatar contenedores para base de datos|2024-2025|
+|VsCodium| editor de Codigo ligera buena y no tiene telemetria|2026|
+|Opencode| UN Asistente de Ia Local en Parte de Que tiene acceso a mi laptop como poder editar, crear archivos|2025-2026|
+|Android Studio|Lo use para mas en la clase de Moviels pero he hecho algunos proyectos con esa Herramienta he usado Compose, XML|2026|
+|Godot|lo uso para mi proyecto actual de un videojuego|2025-2026|
+|blender|uso mucho en creacion de modelos y animacion en blender|2026|
+|gimp|creacion mas en la parte de styles /assets mucho en pixelArt|2026|
+---
