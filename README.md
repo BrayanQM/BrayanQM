@@ -2,11 +2,11 @@
   <tr>
     <!-- COLUMNA IZQUIERDA: Tu GIF animado -->
     <td width="60%" align="center" style="border: none;">
-      <img width="720" height="720" alt="red_neuronal" src="https://github.com/user-attachments/assets/417d685f-c74f-4f2c-9e0a-f69b42376c44" />
+      <img width="300" height="720" alt="red_neuronal" src="https://github.com/user-attachments/assets/417d685f-c74f-4f2c-9e0a-f69b42376c44" />
     </td>
     <!-- COLUMNA DERECHA: Tu Icono o foto de perfil corregido -->
     <td width="40%" align="center" style="border: none;">
-      <img width="1080" height="720" alt="Icon_Pixel" src="https://github.com/user-attachments/assets/ee576b5c-f90f-4b0b-b7fa-fd712a214263" />
+      <img width="720" height="720" alt="Icon_Pixel" src="https://github.com/user-attachments/assets/ee576b5c-f90f-4b0b-b7fa-fd712a214263" />
     </td>
   </tr>
 </table>
