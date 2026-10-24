@@ -6,7 +6,7 @@
     </td>
     <!-- COLUMNA DERECHA: Tu Icono o foto de perfil corregido -->
     <td width="40%" align="center" style="border: none;">
-      <img width="180" height="180" alt="Icon_Pixel" src="https://github.com/user-attachments/assets/ee576b5c-f90f-4b0b-b7fa-fd712a214263" />
+      <img width="1080" height="720" alt="Icon_Pixel" src="https://github.com/user-attachments/assets/ee576b5c-f90f-4b0b-b7fa-fd712a214263" />
     </td>
   </tr>
 </table>
