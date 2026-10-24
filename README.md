@@ -1,4 +1,5 @@
-<img width="540" height="540" alt="red_neuronal" src="https://github.com/user-attachments/assets/f7ca9069-0adb-4ccc-b4c4-1e346ab958f4" />
+<img width="800" height="400" alt="red_neuronal" src="https://github.com/user-attachments/assets/58defbfb-2485-480f-b31b-2a27bcd56dfd" />
+
 
 --- 
 Para empezar Solo soy estudianet de ingenieria Cosa que Es Comun
